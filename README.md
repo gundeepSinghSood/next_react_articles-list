@@ -13,6 +13,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 To search add alteast 3 words of title
 
 features:
-  next
-  react
-  contextAPI
+  * next
+  * react
+  * contextAPI
